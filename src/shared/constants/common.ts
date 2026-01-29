@@ -1,0 +1,1 @@
+export const LOCALSTORAGE_KEY_ORDER_COMPLETE_CONFIRM_BOX = 'order_complete_confirmation_box';
